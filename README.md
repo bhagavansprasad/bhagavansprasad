@@ -25,23 +25,23 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/pandas.jpeg" width="65px"/>
+                <img src="./assets/icons/pandas.png" width="65px"/>
                 <br /> Pandas
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/numpy.jpeg" width="65px"/>
+                <img src="./assets/icons/numpy.png" width="65px"/>
                 <br /> NumPy
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/pytest.jpeg" width="65px"/>
+                <img src="./assets/icons/pytest.png" width="65px"/>
                 <br /> PyTest
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/devops.jpeg" width="65px"/>
+                <img src="./assets/icons/devops.png" width="65px"/>
                 <br /> DevOps
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/linux.jpeg" width="65px"/>
+                <img src="./assets/icons/linux.png" width="65px"/>
                 <br /> Linux Kernel
             </td>
             <td align="center" width="140" height="112.43">
@@ -64,7 +64,7 @@
 
 ### Important Repository
 
-💾 Seq2seq AI Chatbot with attention mechanism - [🔗](https://github.com/bhagavansprasad/Seq2Seq-Chatbot)
+💾 QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
 
 ---
 
