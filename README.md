@@ -1,5 +1,5 @@
 <a href="">
-  <img width="100%" src="https://github.com/bhagavansprasad/bhagavansprasad/blob/main/bhagavan.png">
+  <img width="20%" src="https://github.com/bhagavansprasad/bhagavansprasad/blob/main/bhagavan.png">
 </a>
 
 - 🔭 I’m currently working on AI ML Engineer
