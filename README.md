@@ -7,6 +7,11 @@
 - 😄 Pronouns: ...Bhagavan
 - ⚡ Fun fact: ...I am strict Teacher
 ---
+### Important Repositories
+- QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
+- Python Debugging helper - 
+- WhatsApp Chat bot - [🔗](https://github.com/auratrainings/wapi)
+---
 
   <div>
   <b>My GitHub Stats</b><br />
@@ -62,10 +67,5 @@
   
   
 
-### Important Repository
-
-💾 QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
-
 ---
-
 ***Thanks for visiting my profile.***
