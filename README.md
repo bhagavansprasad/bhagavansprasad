@@ -13,13 +13,6 @@
 - WhatsApp Chat bot - [🔗](https://github.com/auratrainings/wapi)
 ---
 
-  <div>
-  <b>My GitHub Stats</b><br />
-    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-stats.vercel.app/api?username=bhagavansprasad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhagavansprasad's GitHub stats" /></a>
-    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagavansprasad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagavansprasad&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/bhagavansprasad/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
-
-  <a href="https://github.com/bhagavansprasad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagavansprasad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </div>                
   <br> <b>⚡ Technologies I use </b>
       <div align="center">
@@ -64,8 +57,15 @@
         </tr>
     </table>
     </div>
-  
-  
 
 ---
+
+<div>
+  <b>My GitHub Stats</b><br />
+    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-stats.vercel.app/api?username=bhagavansprasad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhagavansprasad's GitHub stats" /></a>
+    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagavansprasad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagavansprasad&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/bhagavansprasad/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+
+  <a href="https://github.com/bhagavansprasad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagavansprasad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
 ***Thanks for visiting my profile.***
