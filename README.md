@@ -9,7 +9,7 @@
 ---
 ### Important Repositories
 - QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
-- Python Debugging helper - 
+- Python Debugging helper - (https://github.com/bhagavansprasad/whereami)
 - WhatsApp Chat bot - [🔗](https://github.com/auratrainings/wapi)
 ---
 
