@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Healthcare Research
 - 📫 How to reach me: ...bhagavansprasad@gmail.com
 - 😄 Pronouns: ...Bhagavan
-- ⚡ Fun fact: ...I am strict Teacher
+- ⚡ Fun fact: ...I am a strict Teacher
 ---
 ### Important Repositories
 - AI ML: QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
@@ -32,7 +32,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/pytest.png" width="65px"/>
-                <br /> PyTest
+                <br /> 
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/devops.png" width="65px"/>
