@@ -24,8 +24,6 @@
 
 - The Idea that caused my job: Debugging utility [🔗](https://dev.to/bhagavan_prasad_d1496a96a/python-debugging-utility-kd1)
 
-### - LinkedIn
-
 [LinkedIn](https://www.linkedin.com/in/bhagavan-prasad-8929991/)
 ---
 </div>          
