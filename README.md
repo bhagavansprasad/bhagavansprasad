@@ -14,6 +14,7 @@
 ### AI ML
 
 - QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
+- ChromaDB Guide - [🔗](https://github.com/bhagavansprasad/chromadb-basics.git)
 
 ### Python
 
