@@ -6,15 +6,29 @@
 - 📫 How to reach me?: ...bhagavansprasad@gmail.com
 - 😄 Pronouns: ...Bhagavan
 - ⚡ Fun fact: ...I am a strict Teacher
----
-### Important Repositories
-- AI ML: QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
-- Python: Debugging Utility - [🔗](https://github.com/bhagavansprasad/pdbwhereami)
-                              [🔗](https://dev.to/bhagavan_prasad_d1496a96a/python-debugging-utility-kd1)
-- Python: WhatsApp Chat bot - [🔗](https://github.com/auratrainings/wapi)
+
+## My Knowledged Hub
+
 ---
 
-  </div>                
+### AI ML
+
+- QueryMate with WhatsApp Group Message - [🔗](https://github.com/bhagavansprasad/QueryMate)
+
+### Python
+
+- Python: Debugging Utility - [🔗](https://github.com/bhagavansprasad/pdbwhereami)
+- Python: WhatsApp Chat bot - [🔗](https://github.com/auratrainings/wapi)
+
+### Technical writeups
+
+- The Idea that caused my job: Debugging utility [🔗](https://dev.to/bhagavan_prasad_d1496a96a/python-debugging-utility-kd1)
+
+### - LinkedIn
+
+[LinkedIn](https://www.linkedin.com/in/bhagavan-prasad-8929991/)
+---
+</div>          
   <br> <b>⚡ Technologies I use </b>
       <div align="center">
     <table align="center">
@@ -59,7 +73,14 @@
     </table>
     </div>
 
----
+    
+ **⚡ Technologies I use** 
+      
+    https://www.linkedin.com/in/bhagavan-prasad-8929991/
+
+**⚡ Technologies I use**
+       **⚡ Technologies I use**
+      ---
 
 <div>
   <b>My GitHub Stats</b><br />
@@ -67,6 +88,6 @@
     <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagavansprasad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     <a href="http://www.github.com/bhagavansprasad"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagavansprasad&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/bhagavansprasad/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
 
-  <a href="https://github.com/bhagavansprasad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagavansprasad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  
+<a href="https://github.com/bhagavansprasad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagavansprasad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ***Thanks for visiting my profile.***
