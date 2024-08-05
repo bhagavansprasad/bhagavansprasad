@@ -24,6 +24,7 @@
 ### Technical writeups
 
 - The Idea that caused my job: Debugging utility [🔗](https://dev.to/bhagavan_prasad_d1496a96a/python-debugging-utility-kd1)
+- A Beginner's Practical Guide to Vector Database: ChromaDB [🔗](https://dev.to/bhagavan_prasad_d1496a96a/a-beginners-practical-guide-to-vector-database-chromadb-5122)
 
 [LinkedIn](https://www.linkedin.com/in/bhagavan-prasad-8929991/)
 ---
