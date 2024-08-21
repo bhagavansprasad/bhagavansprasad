@@ -1,4 +1,4 @@
-#### Teacher | Founder | Author | AI Researcher | ML Scientist | Technical Director | Embedded Engineer | Automation Engineer | Engineering Manager | Product Owner | C Programmer | Network Security Expert | Kernel Developer
+#### Teacher | Founder | Author | AI ML Learner & Engineer  | Technical Director | Embedded & Automation Engineer | Engineering Manager | Product Owner | C | TCP/IP Network Security Expert | Kernel Developer
 
 - 🔭 I’m currently working as AI ML Engineer
 - 🌱 Learning: AI reasearch
