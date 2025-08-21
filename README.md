@@ -1,8 +1,4 @@
 #### Teacher | Founder | Author | Technical Director | Embedded Engineer | Automation Engineer |C Programmer | Network Security Expert | Kernel Developer
-
-- 🔭 I’m currently working as AI ML Engineer
-- 🌱 Learning: AI reasearch
-- 👯 Looking to collaborate on Healthcare Research
 - 📫 How to reach me?: ...bhagavansprasad@gmail.com
 - 😄 Pronouns: ...Bhagavan
 - ⚡ Fun fact: ...I am a strict Teacher
