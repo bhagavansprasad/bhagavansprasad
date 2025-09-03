@@ -1,4 +1,4 @@
-#### Teacher | Founder | Author | Technical Director | Embedded Engineer | Automation Engineer |C Programmer | Network Security Expert | Kernel Developer
+#### Teacher | Founder | Author | Gen AI Engineer | Technical Director | Embedded Engineer | Automation Engineer |C Programmer | Network Security Expert | Kernel Developer
 - 📫 How to reach me?: ...bhagavansprasad@gmail.com
 - 😄 Pronouns: ...Bhagavan
 - ⚡ Fun fact: ...I am a strict Teacher
